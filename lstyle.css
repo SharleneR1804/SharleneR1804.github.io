@@ -1,0 +1,22 @@
+h1 {
+    font-family: Comic Sans MS;
+    text-align: center;
+    color: yellowgreen;
+    background-color: black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 16px;
+    color: red;
+}
+img {
+    height: 400px;
+    width: 250px;
+}
+ul{
+    font-family:Comic Sans MS;
+}
+ol{
+    font-family:Comic Sans MS;
+}

@@ -1,0 +1,39 @@
+h1 {
+    font-family: Comic Sans MS;
+    color:#CC187E;
+    text-align: center;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#CC187E;
+    text-align: center;
+}
+p {
+    font-family: Chiller;
+    color: #B3226C;
+    /*background: #FFE737;*/
+    text-align: center;
+    font-size: 100px;
+}
+div {
+    height:1000px;
+    width:1300px;
+    /*background-image: url("dsc3.jpg");*/
+    background-size: cover;
+
+}
+div.sh2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#FF38F9;
+    text-align: justify;
+    font-size: 50px;
+    background-image: none;
+}
+p.sh2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #15796B;
+    font-size: 20px;
+    text-align: center;
+    background: url("dsc2.png");
+    background-size: 
+}
