@@ -1,3 +1,6 @@
+html{
+    background: black;
+}
 h1 {
     font-family: Comic Sans MS;
     text-align: center;
@@ -16,7 +19,9 @@ img {
 }
 ul{
     font-family:Comic Sans MS;
+    color: whitesmoke;
 }
 ol{
     font-family:Comic Sans MS;
+    color: whitesmoke;
 }
